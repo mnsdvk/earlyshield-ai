@@ -1,0 +1,53 @@
+name,type,lat,lon,elevation_m,criticality,fragility,population_exposed,pathway
+Visakhapatnam Grid Node, power_substation,17.695,83.225,5,1.0,0.88,90000,wind+surge
+Visakhapatnam District Hospital, hospital,17.710,83.300,12,1.0,0.72,38000,rain+access
+Andhra Coastal Shelter A,shelter,17.670,83.240,8,0.92,0.70,15000,surge+access
+NH16 North Corridor, arterial_road,17.770,83.365,16,0.86,0.82,52000,rain+wind
+Srikakulam Grid Node, power_substation,18.300,83.900,17,1.0,0.90,70000,wind
+Srikakulam District Hospital,hospital,18.296,83.895,19,1.0,0.74,28000,rain+access
+Srikakulam Cyclone Shelter,shelter,18.275,83.880,14,0.94,0.70,12000,surge
+Kakinada Grid Node,power_substation,16.995,82.255,4,1.0,0.90,65000,wind+surge
+Kakinada Govt Hospital,hospital,16.985,82.240,5,1.0,0.74,26000,rain+access
+Kakinada Coastal Shelter,shelter,16.975,82.275,3,0.95,0.76,14000,surge
+Konaseema Grid Node,power_substation,16.580,82.985,3,1.0,0.93,72000,wind+surge
+Konaseema Community Shelter,shelter,16.565,82.975,4,0.92,0.78,16000,surge
+Konaseema Arterial Link,arterial_road,16.600,83.000,5,0.88,0.86,42000,rain+surge
+Krishna Grid Node,power_substation,16.610,80.730,17,1.0,0.84,72000,wind
+Krishna District Hospital,hospital,16.620,80.710,19,1.0,0.70,27000,rain
+Krishna Shelter,shelter,16.590,80.725,15,0.92,0.73,14000,access
+Bapatla Grid Node,power_substation,15.905,80.480,7,1.0,0.91,58000,wind+surge
+Bapatla Hospital,hospital,15.910,80.460,10,1.0,0.73,23000,rain+access
+Bapatla Shelter,shelter,15.890,80.475,6,0.95,0.78,11000,surge
+Nellore Grid Node,power_substation,14.450,79.980,13,1.0,0.88,69000,wind
+Nellore Hospital,hospital,14.435,79.970,16,1.0,0.70,30000,rain
+Nellore Coastal Road,arterial_road,14.420,80.000,8,0.84,0.85,44000,rain+surge
+Ganjam Grid Node,power_substation,19.375,84.970,7,1.0,0.91,60000,wind+surge
+Ganjam Hospital,hospital,19.365,84.950,8,1.0,0.74,25000,rain
+Ganjam Shelter,shelter,19.390,84.980,7,0.95,0.78,13000,surge
+Puri Grid Node,power_substation,19.820,85.840,4,1.0,0.95,80000,wind+surge
+Puri Hospital,hospital,19.805,85.830,6,1.0,0.70,30000,rain+access
+Puri Shelter,shelter,19.810,85.820,4,0.96,0.78,18000,surge
+Jagatsinghpur Grid Node,power_substation,20.260,86.180,7,1.0,0.95,76000,wind+surge
+Jagatsinghpur Hospital,hospital,20.250,86.160,9,1.0,0.74,27000,rain
+Kendrapara Shelter,shelter,20.505,86.430,5,0.96,0.80,17000,surge
+Kendrapara Grid Node,power_substation,20.495,86.410,6,1.0,0.95,69000,wind+surge
+Bhadrak Grid Node,power_substation,21.065,86.505,12,1.0,0.90,66000,wind
+Bhadrak Hospital,hospital,21.050,86.490,13,1.0,0.72,25000,rain
+Bhadrak Shelter,shelter,21.060,86.470,10,0.94,0.78,15000,surge+access
+Balasore Grid Node,power_substation,21.500,86.920,13,1.0,0.90,70000,wind
+Balasore Hospital,hospital,21.485,86.900,15,1.0,0.72,28000,rain
+Balasore Shelter,shelter,21.490,86.930,11,0.94,0.77,16000,surge
+Purba Medinipur Grid Node,power_substation,21.955,87.710,8,1.0,0.94,76000,wind+surge
+Purba Medinipur Hospital,hospital,21.945,87.695,10,1.0,0.74,26000,rain
+South 24 Parganas Grid Node,power_substation,22.140,88.410,4,1.0,0.97,95000,wind+surge
+South 24 Parganas Hospital,hospital,22.125,88.395,5,1.0,0.76,32000,rain+access
+South 24 Parganas Shelter,shelter,22.130,88.420,3,0.97,0.83,22000,surge
+Chennai Grid Node,power_substation,13.090,80.280,8,1.0,0.90,110000,wind+rain
+Chennai Government Hospital,hospital,13.075,80.260,9,1.0,0.66,45000,rain+access
+Chennai Shelter,shelter,13.060,80.280,7,0.90,0.72,18000,access
+Cuddalore Grid Node,power_substation,11.755,79.780,7,1.0,0.93,65000,wind+surge
+Cuddalore Hospital,hospital,11.740,79.765,9,1.0,0.73,24000,rain
+Nagapattinam Grid Node,power_substation,10.775,79.855,5,1.0,0.96,60000,wind+surge
+Nagapattinam Shelter,shelter,10.755,79.830,4,0.97,0.82,16000,surge
+Ramanathapuram Grid Node,power_substation,9.375,78.850,7,1.0,0.90,52000,wind
+Ramanathapuram Hospital,hospital,9.350,78.830,8,1.0,0.73,21000,rain+access

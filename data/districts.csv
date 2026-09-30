@@ -1,0 +1,22 @@
+district,state,lat,lon,coast_km,elevation_m
+Visakhapatnam,Andhra Pradesh,17.6868,83.2185,4,6
+Srikakulam,Andhra Pradesh,18.2949,83.8938,7,20
+Kakinada,Andhra Pradesh,16.9891,82.2475,5,3
+Konaseema,Andhra Pradesh,16.5760,82.9920,12,4
+Krishna,Andhra Pradesh,16.6100,80.7200,32,18
+Bapatla,Andhra Pradesh,15.9040,80.4670,15,8
+Nellore,Andhra Pradesh,14.4426,79.9865,18,14
+Tirupati,Andhra Pradesh,13.6288,79.4192,92,120
+Ganjam,Odisha,19.3706,84.9630,16,7
+Puri,Odisha,19.8135,85.8312,2,4
+Jagatsinghpur,Odisha,20.2549,86.1711,11,7
+Kendrapara,Odisha,20.5017,86.4223,9,6
+Bhadrak,Odisha,21.0574,86.4963,30,12
+Balasore,Odisha,21.4934,86.9135,18,14
+Purba Medinipur,West Bengal,21.9497,87.7000,12,9
+South 24 Parganas,West Bengal,22.1351,88.4010,7,4
+Chennai,Tamil Nadu,13.0827,80.2707,3,8
+Cuddalore,Tamil Nadu,11.7480,79.7714,4,8
+Nagapattinam,Tamil Nadu,10.7672,79.8449,3,5
+Ramanathapuram,Tamil Nadu,9.3639,78.8395,16,7
+
